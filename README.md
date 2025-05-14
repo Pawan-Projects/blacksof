@@ -1,3 +1,6 @@
+# Blacksof
+
+This is a Next.js project for Blacksof.
 🚀 Blacksof | Sample Assignment | Frontend Developer
 
 Completed by: Pawan Patidar  
@@ -83,3 +86,4 @@ Thank you for reviewing this project. I hope it demonstrates my commitment to cl
 Feel free to connect or reach out for further collaboration!
 
 — Pawan Patidar
+# blacksof
