@@ -25,6 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      {/* This is a JSX comment */}
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
